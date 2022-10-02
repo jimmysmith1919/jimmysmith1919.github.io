@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in computational math ([ICME](https://icme.stanford.edu/)) at Stanford University, advised by [Scott Linderman](https://web.stanford.edu/~swl1/). My research interests are broadly related to combining state space models and deep learning for improved sequence modeling.
+I am a PhD student in computational math ([ICME](https://icme.stanford.edu/)) at Stanford University, advised by [Scott Linderman](https://web.stanford.edu/~swl1/). My research interests are broadly related to improving sequence modeling by combining state space models and deep learning approaches.
 
 
 ## Publications
