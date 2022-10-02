@@ -13,6 +13,17 @@ I am a PhD student in computational math ([ICME](https://icme.stanford.edu/)) at
 
 ## Publications
 
-[Reverse engineering recurrent neural networks with jacobian switching linear dynamical systems](https://arxiv.org/abs/2111.01256)
-Smith, J. T.H., Linderman, S.W., & Sussillo, D. (2021)
+[Simplified State Space Layers for Sequence Modeling](https://arxiv.org/abs/2208.04933)\
+Jimmy T.H. Smith, Andrew Warrington, Scott W. Linderman\
+ArXiv Preprint.  (2022)
+
+[Reverse engineering recurrent neural networks with jacobian switching linear dynamical systems](https://arxiv.org/abs/2111.01256)\
+Jimmy T.H. Smith, Scott W. Linderman, David Sussillo\
 Advances in Neural Information Processing Systems (NeurIPS). (2021)
+
+[Bayesian Inference in Augmented Bow Tie Networks](http://bayesiandeeplearning.org/2021/papers/61.pdf)\
+Jimmy T.H. Smith, Dieterich Lawson, Scott W. Linderman\
+Bayesian Deep Learning Worship, Neurips. (2021)
+
+
+
