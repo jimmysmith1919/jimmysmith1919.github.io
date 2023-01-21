@@ -15,7 +15,7 @@ I am a PhD student in computational math ([ICME](https://icme.stanford.edu/)) at
 
 [Simplified State Space Layers for Sequence Modeling](https://arxiv.org/abs/2208.04933)\
 Jimmy T.H. Smith, Andrew Warrington, Scott W. Linderman\
-ArXiv Preprint.  (2022)
+International Conference on Learning Representations (ICLR). (2023) **Selected for Oral Presentation (top 5% of accepted papers, top 1.5% of all submissions)**
 
 [Reverse engineering recurrent neural networks with Jacobian switching linear dynamical systems](https://arxiv.org/abs/2111.01256)\
 Jimmy T.H. Smith, Scott W. Linderman, David Sussillo\
