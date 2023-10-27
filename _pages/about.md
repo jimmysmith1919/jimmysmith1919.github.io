@@ -13,6 +13,10 @@ I am a PhD student in computational math ([ICME](https://icme.stanford.edu/)) at
 
 ## Publications
 
+[Convolutional State Space Models for Long-Range Spatiotemporal Modeling](Coming soon)\
+Jimmy T.H. Smith, Shalini De Mello, Jan Kautz, Scott W. Linderman, Wonmin Byeon\
+Advances in Neural Information Processing Systems (NeurIPS) 2023.
+
 [Simplified State Space Layers for Sequence Modeling](https://arxiv.org/abs/2208.04933)\
 Jimmy T.H. Smith, Andrew Warrington, Scott W. Linderman\
 International Conference on Learning Representations (ICLR) 2023. **Selected for Oral Presentation (top 5% of accepted papers, top 1.5% of all submissions)**
