@@ -13,7 +13,7 @@ I am a PhD student in computational math ([ICME](https://icme.stanford.edu/)) at
 
 ## Publications
 
-[Convolutional State Space Models for Long-Range Spatiotemporal Modeling](Coming soon)\
+[Convolutional State Space Models for Long-Range Spatiotemporal Modeling](https://arxiv.org/abs/2310.19694)\
 Jimmy T.H. Smith, Shalini De Mello, Jan Kautz, Scott W. Linderman, Wonmin Byeon\
 Advances in Neural Information Processing Systems (NeurIPS) 2023.
 
