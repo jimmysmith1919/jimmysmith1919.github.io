@@ -20,8 +20,9 @@ Jakub Smekal, **Jimmy T.H. Smith**, Michael Kleinman, Dan Biderman, Scott Linder
 Next Generation of Sequence Modeling Architectures Workshop at ICML 2024.
 
 [State-Free Inference of State-Space Models: The Transfer Function Approach](https://arxiv.org/abs/2405.06147)\
-Rom N. Parnichkun, Stefano Massaroli, Alessandro Moro, **Jimmy T.H. Smith**, Ramin Hasani, Mathias Lechner,\
-Qi An, Christopher Ré, Hajime Asama, Stefano Ermon, Taiji Suzuki, Atsushi Yamashita, Michael Poli\
+Rom N. Parnichkun, Stefano Massaroli, Alessandro Moro, **Jimmy T.H. Smith**, Ramin Hasani,\
+Mathias Lechner, Qi An, Christopher Ré, Hajime Asama, Stefano Ermon, Taiji Suzuki, \
+Atsushi Yamashita, Michael Poli\
 International Conference on Machine Learning (ICML) 2024.
 
 [Convolutional State Space Models for Long-Range Spatiotemporal Modeling](https://arxiv.org/abs/2310.19694)\
