@@ -8,25 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-I am a Founding Scientist at [Liquid AI](https://www.liquid.ai/). I am also finishing my PhD in computational math ([ICME](https://icme.stanford.edu/)) at Stanford University, advised by [Scott Linderman](https://web.stanford.edu/~swl1/). My research interests are broadly related to dynamical systems and efficient sequence modeling. Before Stanford, I obtained a master's degree at MIT in the [LGO](https://lgo.mit.edu/) program and attended undergrad at Georgia Tech. I have previously interned as a PhD machine learning research scientist at NVIDIA in the [Learning and Perception](https://research.nvidia.com/labs/lpr/) team and also worked in machine learning research roles at Dell and Goodyear. 
+I am a Founding Scientist at [Liquid AI](https://www.liquid.ai/). I earned my PhD in computational mathematics from the [Institute of Computational and Mathematical Engineering (ICME)](https://icme.stanford.edu/) at Stanford University, where I was advised by [Scott Linderman](https://web.stanford.edu/~swl1/). My research focuses on leveraging dynamical systems to improve the capability, efficiency, and explainability of sequence modeling.
+
+Prior to my time at Stanford, I completed a master's degree in the [Leaders for Global Operations (LGO)](https://lgo.mit.edu/) program at MIT and obtained my bachelor's degree from Georgia Tech. My professional experience includes roles as a machine learning research scientist at NVIDIA on the [Learning and Perception](https://research.nvidia.com/labs/lpr/) team, as well as machine learning research roles at Dell and Goodyear. 
 
 
 ## Publications
 
 [Convolutional State Space Models for Long-Range Spatiotemporal Modeling](https://arxiv.org/abs/2310.19694)\
-Jimmy T.H. Smith, Shalini De Mello, Jan Kautz, Scott W. Linderman, Wonmin Byeon\
+**Jimmy T.H. Smith**, Shalini De Mello, Jan Kautz, Scott W. Linderman, Wonmin Byeon\
 Advances in Neural Information Processing Systems (NeurIPS) 2023.
 
 [Simplified State Space Layers for Sequence Modeling](https://arxiv.org/abs/2208.04933)\
-Jimmy T.H. Smith, Andrew Warrington, Scott W. Linderman\
+**Jimmy T.H. Smith**, Andrew Warrington, Scott W. Linderman\
 International Conference on Learning Representations (ICLR) 2023. **Selected for Oral Presentation (top 5% of accepted papers, top 1.5% of all submissions)**
 
 [Reverse engineering recurrent neural networks with Jacobian switching linear dynamical systems](https://arxiv.org/abs/2111.01256)\
-Jimmy T.H. Smith, Scott W. Linderman, David Sussillo\
+**Jimmy T.H. Smith**, Scott W. Linderman, David Sussillo\
 Advances in Neural Information Processing Systems (NeurIPS) 2021.
 
 [Bayesian Inference in Augmented Bow Tie Networks](http://bayesiandeeplearning.org/2021/papers/61.pdf)\
-Jimmy T.H. Smith, Dieterich Lawson, Scott W. Linderman\
+**Jimmy T.H. Smith**, Dieterich Lawson, Scott W. Linderman\
 Bayesian Deep Learning Workshop, NeurIPS 2021.
 
 
