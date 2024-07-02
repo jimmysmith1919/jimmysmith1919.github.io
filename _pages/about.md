@@ -15,7 +15,7 @@ Prior to my time at Stanford, I completed masters' degrees in the [Leaders for G
 
 ## Publications
 
-[Towards a theory of learning dynamics in deep state space models](Coming_soon) \
+[Towards a theory of learning dynamics in deep state space models](https://openreview.net/forum?id=fbqmZND1ze) \
 Jakub Smekal, **Jimmy T.H. Smith**, Michael Kleinman, Dan Biderman, Scott Linderman. \
 Next Generation of Sequence Modeling Architectures Workshop at ICML 2024.
 
