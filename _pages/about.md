@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Founding Scientist at [Liquid AI](https://www.liquid.ai/). I earned my PhD in computational mathematics from the [Institute of Computational and Mathematical Engineering (ICME)](https://icme.stanford.edu/) at Stanford University, where I was advised by [Scott Linderman](https://web.stanford.edu/~swl1/). My research focuses on leveraging dynamical systems to improve the capability, efficiency, and explainability of sequence modeling.
+I am a Founding Scientist at [Liquid AI](https://www.liquid.ai/). I earned my PhD in computational mathematics from the [Institute of Computational and Mathematical Engineering (ICME)](https://icme.stanford.edu/) at Stanford University, where I was advised by [Scott Linderman](https://web.stanford.edu/~swl1/). My research is broadly related to leveraging dynamical systems to improve the capability, efficiency, and explainability of sequence modeling.
 
 Prior to my time at Stanford, I completed masters' degrees in the [Leaders for Global Operations (LGO)](https://lgo.mit.edu/) program at MIT and obtained my bachelor's degree from Georgia Tech. My industry experience includes machine learning research roles at NVIDIA on the [Learning and Perception](https://research.nvidia.com/labs/lpr/) team, as well as at Dell and Goodyear. 
 
