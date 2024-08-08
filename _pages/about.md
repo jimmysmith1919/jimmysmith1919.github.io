@@ -22,7 +22,7 @@ Preprint. Under review 2024.
 [Towards a theory of learning dynamics in deep state space models](https://arxiv.org/abs/2407.07279) \
 Jakub Smekal, **Jimmy T.H. Smith**, Michael Kleinman, Dan Biderman, Scott W. Linderman. \
 Next Generation of Sequence Modeling Architectures Workshop at ICML 2024. \
-**Selected for Spotlight Presentation**
+**Selected for Spotlight Presentation (top 10% of accepted papers)**
 
 [State-Free Inference of State-Space Models: The Transfer Function Approach](https://arxiv.org/abs/2405.06147)\
 Rom N. Parnichkun, Stefano Massaroli, Alessandro Moro, **Jimmy T.H. Smith**, Ramin Hasani,\
