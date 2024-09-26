@@ -16,7 +16,7 @@ Prior to my time at Stanford, I completed masters' degrees in the [Leaders for G
 ## Publications
 [Towards Scalable and Stable Parallelization of Nonlinear RNNs](https://arxiv.org/abs/2407.19115) \
 Xavier Gonzalez, Andrew Warrington, **Jimmy T.H. Smith**, Scott W. Linderman. \
-Preprint. Under review 2024. 
+Advances in Neural Information Processing Systems (**NeurIPS**) 2024.
 
 
 [Towards a theory of learning dynamics in deep state space models](https://arxiv.org/abs/2407.07279) \
