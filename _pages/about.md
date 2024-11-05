@@ -14,6 +14,11 @@ Prior to my time at Stanford, I completed masters' degrees in the [Leaders for G
 
 
 ## Publications
+[Birdie: Advancing State Space Models with Reward-Driven Objectives and Curricula](https://arxiv.org/abs/2411.01030) \
+Sam Blouir, **Jimmy T.H. Smith**, Antonios Anastasopoulos, Amarda Shehu \
+Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (**EMNLP**).
+
+
 [Towards Scalable and Stable Parallelization of Nonlinear RNNs](https://arxiv.org/abs/2407.19115) \
 Xavier Gonzalez, Andrew Warrington, **Jimmy T.H. Smith**, Scott W. Linderman. \
 Advances in Neural Information Processing Systems (**NeurIPS**) 2024.
