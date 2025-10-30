@@ -52,5 +52,11 @@ Advances in Neural Information Processing Systems (**NeurIPS**) 2021.
 **Jimmy T.H. Smith**, Dieterich Lawson, Scott W. Linderman. \
 Bayesian Deep Learning Workshop, NeurIPS 2021.
 
+[Deep learning for automated visual inspection of uncured rubber](https://dspace.mit.edu/bitstream/handle/1721.1/118694/1056954044-MIT.pdf?sequence=1)\
+**Jimmy T.H. Smith** \
+MIT Master's Thesis, 2018.
+
+
+
 
 
